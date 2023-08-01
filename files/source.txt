@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="fa">
+    <head>
+<link rel="dns-prefetch" href="//virgool.io">
+<link rel="dns-prefetch" href="//www.facebook.com">
+<link rel="dns-prefetch" href="//files.virgool.io">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//www.w3.org">
+<link rel="dns-prefetch" href="//vrgl.ir">
+<link rel="dns-prefetch" href="//l.vrgl.ir">
+<link rel="dns-prefetch" href="//www.ted.com">
+<link rel="dns-prefetch" href="//schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"virgool.io">
+<link rel="dns-prefetch" href="//schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ویرگول","item":"virgool.io"},{"@type":"ListItem","position":2,"name":"رشد">
+        <meta name="csrf-token" content="mNGGapVWAdiBDdsE5t9y7rmI6ZdxmosnhUsdWJdZ">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="manifest" href="https://virgool.io/manifest.json?v=v2.13.2">
+<title> آکراسیا؛ یا چرا انجام کاری که مهم است را به تعویق می‌اندازیم؟ -  رشد و پیشرفت فردی </title>
+<link rel="shortcut icon" type="image/x-icon" href=https://virgool.io/images/default-publication-avatar.jpg>
+
+<link href="https://virgool.io/css/styles.css?v=v2.13.2" rel="stylesheet" />
+<link rel="mask-icon" href="https://virgool.io/images/icon.svg?v=v2.13.2">
+
+
+
+    <link rel="apple-touch-icon" href="https://virgool.io/images/virgool.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="https://virgool.io/images/virgool-60.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="https://virgool.io/images/virgool-76.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="https://virgool.io/images/virgool-120.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="https://virgool.io/images/virgool-152.png">
+  
+
+<meta property="og:site_name" content="ویرگول">
+<meta property="og:title" content="آکراسیا؛ یا چرا انجام کاری که مهم است را به تعویق می‌اندازیم؟">
+<meta property="og:description" content="آکراسیا گریبان‌گیر تمام دانشجویانی‌ست که قصد نوشتن پایان‌نامه دارن! از جمله خودم!">
+<meta name="description" content="آکراسیا گریبان‌گیر تمام دانشجویانی‌ست که قصد نوشتن پایان‌نامه دارن! از جمله خودم!">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://virgool.io/personal-development/%D8%A2%DA%A9%D8%B1%D8%A7%D8%B3%DB%8C%D8%A7%D8%9B-%DB%8C%D8%A7-%DA%86%D8%B1%D8%A7-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%DA%A9%D8%A7%D8%B1%DB%8C-%DA%A9%D9%87-%D9%85%D9%87%D9%85-%D8%A7%D8%B3%D8%AA-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AA%D8%B9%D9%88%DB%8C%D9%82-%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C%D9%85-h5l1weygl9ai">
+<meta property="og:locale" content="fa">
+
+<meta name="referrer" content="unsafe-url">
+
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@virgool_io">
+<meta name="twitter:title" content="آکراسیا؛ یا چرا انجام کاری که مهم است را به تعویق می‌اندازیم؟">
+<meta name="twitter:description" content="آکراسیا گریبان‌گیر تمام دانشجویانی‌ست که قصد نوشتن پایان‌نامه دارن! از جمله خودم!">
+
+
+
+
+<meta property="article:author" content="شکیبا شاملو">
+<meta property="article:publisher" content="https://www.facebook.com/virgool.io">
+<meta property="article:published_time" content="2019-05-26 23:04:18">
+<meta property="article:modified_time" content="2021-04-24 23:14:57">
+<link rel="canonical" href="https://virgool.io/personal-development/%D8%A2%DA%A9%D8%B1%D8%A7%D8%B3%DB%8C%D8%A7%D8%9B-%DB%8C%D8%A7-%DA%86%D8%B1%D8%A7-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%DA%A9%D8%A7%D8%B1%DB%8C-%DA%A9%D9%87-%D9%85%D9%87%D9%85-%D8%A7%D8%B3%D8%AA-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AA%D8%B9%D9%88%DB%8C%D9%82-%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C%D9%85-h5l1weygl9ai"/>
+<link rel="author" href="https://virgool.io/personal-development">
+<meta property="author" content="شکیبا شاملو">
+      <meta property="og:image" content="https://files.virgool.io/upload/users/582/posts/h5l1weygl9ai/josvx21ncrzz.jpeg">
+    <meta name="twitter:image" content="https://files.virgool.io/upload/users/582/posts/h5l1weygl9ai/josvx21ncrzz.jpeg">
+    <meta name="twitter:image:alt" content="آکراسیا؛ یا چرا انجام کاری که مهم است را به تعویق می‌اندازیم؟">
+    
+
+
+<meta name="apple-mobile-web-app-status-bar-style" content="translucent" />
+
+<link rel="apple-touch-startup-image" href="https://virgool.io/images/pwa/ios/launch-640x1136.png?v=v2.13.2" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="https://virgool.io/images/pwa/ios/launch-750x1294.png?v=v2.13.2" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="https://virgool.io/images/pwa/ios/launch-1242x2148.png?v=v2.13.2" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="https://virgool.io/images/pwa/ios/launch-1125x2436.png?v=v2.13.2" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="https://virgool.io/images/pwa/ios/launch-1536x2048.png?v=v2.13.2" media="(min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="https://virgool.io/images/pwa/ios/launch-1668x2224.png?v=v2.13.2" media="(min-device-width: 834px) and (max-device-width: 834px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="https://virgool.io/images/pwa/ios/launch-2048x2732.png?v=v2.13.2" media="(min-device-width: 1024px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+
+<link rel='stylesheet' type='text/css' href="https://virgool.io/dynamic-styles/personal-development" />
+
+<meta name="sentry-trace" content="f7a4405d31af43c39fba247e92b2eb22-64cb20b43c7b4534-0"/>
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GS688K');</script>
+
+    
+<style>.page_speed_1645506411{ display:none;visibility:hidden } .page_speed_1682103149{ enable-background:new 0 0 492 492; } .page_speed_1575634314{ stop-color:#107ABD } .page_speed_927189100{ stop-color:#0658A5 }</style>
+</head>
+
+  <body data-page-name="publication.internal" class="body-publication-internal     "
+         data-login="false" data-app="production">
+
+          
+   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GS688K"
+   height="0" width="0" class="page_speed_1645506411"></iframe></noscript>
+   
+   
+
+      <section class="site-body">
+
+      <div class="alert"></div>
+
+         
+         
+      
+      
+   <header class="header">
+      <section class="navbar js-navbar   ">
+    <div class="pwa-navbar-section">
+    <button class="js-pwa-back-button pwa-back-button">
+      <svg width="20" x="0px" y="0px" viewBox="0 0 492 492" class="page_speed_1682103149">
+          <path d="M198.608,246.104L382.664,62.04c5.068-5.056,7.856-11.816,7.856-19.024c0-7.212-2.788-13.968-7.856-19.032l-16.128-16.12
+            C361.476,2.792,354.712,0,347.504,0s-13.964,2.792-19.028,7.864L109.328,227.008c-5.084,5.08-7.868,11.868-7.848,19.084
+            c-0.02,7.248,2.76,14.028,7.848,19.112l218.944,218.932c5.064,5.072,11.82,7.864,19.032,7.864c7.208,0,13.964-2.792,19.032-7.864
+            l16.124-16.12c10.492-10.492,10.492-27.572,0-38.06L198.608,246.104z"/>
+      </svg>
+    </button>
+  </div>
+    <section class="topbar">
+     <div id="App_Search" class="App_Search">
+        <div class="navbar-search" for="search--input">
+          <div class="container">
+             <span id="btn-close-search" class="btn-close-search">
+                <svg width="14px" height="14px" viewBox="313 45 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+               <polygon id="Fill-2" stroke="none" fill="#AEAEAE" fill-rule="evenodd" points="326.999999 46.4099998 325.589999 45 320 50.5899998 314.41 45 313 46.4099998 318.59 51.9999996 313 57.5899993 314.41 58.9999992 320 53.4099993 325.589999 58.9999992 326.999999 57.5899993 321.409999 51.9999996"></polygon>
+               </svg>
+             </span>
+            <form id="cse-search-box" action="https://virgool.io/search">
+                <input class="search--input" type="text" autocomplete="off" name="q" placeholder="در بین مقالات، نویسندگان و… جستجو کنید" required/>
+            </form>
+          </div>
+        </div>
+     </div>
+     <div class="container">
+        <section class="topbar-inner flexContainer"  data-shorturl="https://vrgl.ir/P7jGJ"}}>
+
+           <div class="navbar-block">
+               <a href="https://virgool.io" class="navbar-logo">
+                <svg width="35px" height="50px" viewBox="0 0 204 304">
+                  <style type="text/css">
+                    .st0{fill:url(#Shape_1_);}
+                    .st1{filter:url(#filter-3);}
+                    .st2{fill:#FFFFFF;}
+                  </style>
+                  <filter filterUnits="objectBoundingBox" height="200%" id="filter-3" width="200%" x="-50%" y="-50%">
+                  <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+                  <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"></feGaussianBlur>
+                  <feColorMatrix in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"></feColorMatrix>
+                  </filter>
+                  <linearGradient id="Shape_1_" gradientUnits="userSpaceOnUse" x1="-892.5724" y1="1149.3007" x2="-891.5724" y2="1149.5884" gradientTransform="matrix(203.0965 0 0 -275.684 181280.5781 317044.6562)">
+                  <stop offset="0" class="page_speed_1575634314"></stop>
+                  <stop offset="1" class="page_speed_927189100"></stop>
+                  </linearGradient>
+                  <path id="Shape" class="st0" d="M100.2,303.7c-16.2-11.1-32.1-22-48.5-33.2c9.9-13.9,19.7-27.4,29-40.4
+                                        c-10.1-4.2-20.5-7.2-29.4-12.7c-35.1-21.5-54-52.6-51-94.4c3.1-43.4,26.3-73.9,66.5-88.4c67.8-24.4,125,23.1,134.4,75.5
+                                        c4.1,22.8,1.9,45.2-10.4,65.1c-12.4,20.1-26.2,39.4-39.8,58.7c-15.6,22-31.7,43.7-47.5,65.5C102.6,300.6,101.7,301.8,100.2,303.7z"></path>
+                  <g id="Fill-1" transform="translate(113.070063, 101.070415) rotate(210.000000) translate(-113.070063, -101.070415) ">
+                    <g class="st1">
+                      <path id="path-2_2_" d="M164.9,183.5c-11,0-21.8,0-32.9,0c0.2-9.5,0.4-49.1,0.6-58c-6,1.2-11.8,3.1-17.6,3.4
+                                              c-23,1.2-41.5-7.3-53.3-27.5c-12.3-21-11.2-42.5,2.8-61.8c23.6-32.7,65.1-28.8,85.9-7.6c9.1,9.2,15.2,20.3,15.7,33.4
+                                              c0.6,13.2,0.3,26.4,0.1,39.7"></path>
+                    </g>
+                    <g>
+                      <path id="path-2_1_" class="st2" d="M166.6,182.5c-11,0-21.8,0-32.9,0c0.2-9.5,0.4-49.1,0.6-58c-6,1.2-11.8,3.1-17.6,3.4
+                                              c-23,1.2-41.5-7.3-53.3-27.5c-12.3-21-11.2-42.5,2.8-61.8c23.6-32.7,65.1-28.8,85.9-7.6c9.1,9.2,15.2,20.3,15.7,33.4
+                                              c0.6,13.2,0.3,26.4,0.1,39.7"></path>
+                    </g>
+                  </g>
+                </svg>
+               </a>
+               
+                                                
+                            <div class="userLogin button">
+                           </div>
+             
+           </div>
+           <div class="navbar-block userOption">
+                      <div id="open-search-bar" class="btn-search btn-icon button">
+             <svg height="22" viewBox="0 0 18 18" width="22">
+              <rect fill="#ff13dc" opacity="0" width="22" height="22" />
+              <path d="M16.5865,15.107,12.7,11.2215A6.413,6.413,0,1,0,11.2215,12.7l3.886,3.886a1.05,1.05,0,0,0,1.479-1.479ZM3,7.5A4.5,4.5,0,1,1,7.5,12,4.5,4.5,0,0,1,3,7.5Z" />
+             </svg>
+           </div>
+             
+             
+
+                          <div class="userLogin button js-userLogin">
+                <span class="btn">
+                                          <a class="btn-text" href="https://virgool.io/login" title="ورود به حساب کاربری">ورود</a>
+                      <a class="btn-text navbar-signup-button" href="https://virgool.io/register" title="ثبت نام در ویرگول">ثبت نام</a>
+                                    </span>
+             </div>
+             
+
+                                                           
+           </div>
+        </section>
+      </div>
+  </section>
+
+  
+  </section>
+   </header>
+
+     <main id="app" class="site-main">
+        <section class="page page-single page-">
+           <section class="page-inner">
+
+            
+            <section class="page-content">
+               <article class="single-container js-button-action " data-post-id="50274">
+
+   
+   <header class="author module">
+    <div class="module--avatar">
+                                    <a href="https://virgool.io/personal-development/@shakiba">
+                                    <img src="https://files.virgool.io/upload/users/582/avatar/fjJOKU.jpeg?x-img=v1/resize,h_120,w_120/optimize,q_100" alt="شکیبا شاملو">
+            </a>
+
+    </div>
+    <div class="module-info">
+        <div class="module-header" data-user-id="582">
+                                                <a class="module--name" href="https://virgool.io/personal-development/@shakiba">
+                                        شکیبا شاملو
+           </a>
+            
+                            <button data-action-name="follow" class="btn btn-follow btn-sm btn-rounded"></button>
+            
+                    </div>
+                    <p class="module--bio ">ما شکیبا بودیم و این است کلامی که ما را به تمامی وصف می‌توان کرد.</p>
+                        <div class="module-footer">
+              <span class="data">۴ سال پیش</span>
+              /
+              <span class="time">خواندن ۵ دقیقه</span>
+         </div>
+             </div>
+</header>
+
+   <div id="app-root-single-ads"></div>
+   
+   
+   
+   
+  <input type="hidden" id="log_id" name="log_id" value="">
+  <input type="hidden" id="log_code" name="log_code" value="">
+
+  <div class="post-content article-content">
+
+    <h1>آکراسیا؛ یا چرا انجام کاری که مهم است را به تعویق می‌اندازیم؟</h1>
+
+        
+        
+    <div class="post-body renderEditorData">
+      <p class="md-block-unstyled">ویکتور هوگو، نویسنده‌ی مشهور فرانسوی، به ناشرش قول می‌ده که طی یک سال کتاب جدیدی براش بنویسه. طی اون یک سال همه کاری می‌کنه غیر از نوشتن کتاب. ناامید میره پیش ناشرش و شش ماه دیگه ازش زمان می‌خواد. (دقت کنید تو اون یک سال هیچی ننوشته بوده و حالا میخواسته تو شش ماه جمعش کنه)</p><p class="md-block-unstyled">ویکتور هوگو برای جبران این تعویقی که تو کارش پیش اومده بود یه برنامه‌ای می‌ریزه. تمام لباساش رو میذاره تو کمد، درش رو قفل می‌کنه و کلیدش هم میده به دستیارش، این کار رو می‌کنه که به‌خاطر نداشتن لباس نتونه از خونه بره بیرون. خودش میمونه و یه لا لباس! طی اون شش ماه نوشتن کتاب گوژپشت نتردام رو می‌تونه تموم کنه.</p><figure class="md-block-image md-block-image-has-caption"><img src="https://files.virgool.io/upload/users/582/posts/h5l1weygl9ai/josvx21ncrzz.jpeg" alt="+به وسوسه‌ی نوشتن پایان‌نامه چی می‌گیم؟  - امروز نه!"><figcaption classname="md-block-image-caption">+به وسوسه‌ی نوشتن پایان‌نامه چی می‌گیم؟  - امروز نه!</figcaption></figure><h4 class="md-block-header-four">آکراسیا، مشکل قدیمی!</h4><p class="md-block-unstyled">مسئله‌ی به تعویق انداختن پیشینه‌ی طولانی‌ای بین انسان‌ها داره. از ویکتور هوگو که نویسنده‌ای پرکار بوده گرفته تا منِ شکیبا که درگیر نوشتن پایان‌نامه هستم، همه و همه درگیر این مشکل بودن. انقدری به تعویق انداختن کارها ریشه‌دار و قدیمیه که حتی سقراط و ارسطو واژه‌ای رو برای این حالت در نظر گرفتن: <strong class="md-inline-bold">آکراسیا.</strong></p><p class="md-block-unstyled">وقتی می‌دونید الان انجام چه کاری اهمیت داره و بهترین کار چیه، ولی می‌رید سراغ انجام یه کار دیگه در واقع دچار آکراسیا شدید. به بیان دیگه آکراسیا یعنی به تعویق انداختن کارها یا ضعف اراده. آکراسیا همون چیزیه که شما رو از انجام کاری که <strong class="md-inline-bold">می‌بایست</strong> انجام بدید منعتون می‌کنه. (مثل وقتی که امتحان دارید و به جای درس خوندن وقتتون رو صرف شمردن گل‌های قالی یا تامل در سرآغاز هستی می‌کنید)<br><strong class="md-inline-bold">چرا ما برنامه می‌ریزیم، ددلاین می‌ذاریم، هدف‌گذاری می‌کنیم، ولی در نهایت نمی‌تونیم اون کار رو انجام بدیم؟</strong></p><h4 class="md-block-header-four"><strong class="md-inline-bold">برنامه‌ریزی می‌کنیم، ولی عمل نمی‌کنیم</strong></h4><p class="md-block-unstyled">یکی از توضیحاتی که میشه برای آکراسیا داد اینه که کاری می‌کنه که دچار تناقض زمانی بشیم. یعنی ذهن انسان پاداش فوری رو ارزشمندتر از پاداش آینده می‌دونه. (ارجاع به همون آزمایشی که به بچه‌ها ۲ تا شکلات در همون لحظه می‌دادن ولی اگر بچه‌ها راضی میشدن تا صبر کنن و شکلات رو نمی‌گرفتن، فرداش ۴ تا شکلات میدادن بهشون. بچه‌هایی که صبر کردن واسه فردا، کنترل بیشتری روی رفتارشون داشتن)</p><p class="md-block-unstyled">وقتی که برای خودتون برنامه می‌چینید - مثلا هدفتون اینه که وزنتون رو کم کنید یا یه کتاب بنویسید یا یه زبان جدید یاد بگیرید - در واقع دارید خودِ آینده‌تون رو برنامه‌ریزی می‌کنید. پیشبینی می‌کنید که زندگیتون در آینده چه‌جوری خواهد بود و وقتی به آینده فکر می‌کنید ذهنتون به اعمالی با سود بلندمدت ارزش و بها میده.</p><p class="md-block-unstyled"><strong class="md-inline-bold">وقتی موقع تصمیم‌گیری می‌رسه، دیگه برای خودِ آینده‌تون انتخاب نمی‌کنید، بلکه در لحظه فکر می‌کنید و مغزتون به خودِ الانتون فکر می‌کنه</strong>. محققان به این نتیجه رسیدن که خودِ الان‌تون پاداش آنی رو دوست داره، نه پاداش بلندمدت رو. این یکی از دلایلی می‌تونه باشه که شبا قبل خواب حس می‌کنید کلی انگیزه دارید و می‌خواید دنیارو عوض کنید، ولی صبح که بیدار میشید می‌بینید دوباره دارید همون کارای قبلی رو انجام میدید. وقتی حرف از آینده‌ست، مغزتون پاداش بلندمدت رو ارزشمند می‌دونه، ولی وقتی حرف از حاله، مغز پاداش در لحظه رو ارزشمند میدونه.</p><p class="md-block-unstyled">همین مسئله نشون میده <strong class="md-inline-bold">توانایی به تاخیر انداختنِ دریافتِ پاداش</strong> می‌تونه عامل تعیین‌کننده‌ی موفقیت در زندگی باشه. فهم اینکه چه‌جوری در مقابل پاداش آنی باید مقاومت کنیم می‌تونه کمک کنه از جایی که هستیم به جایی که می‌خوایم بریم پل بزنیم و زودتر برسیم.</p><h4 class="md-block-header-four">حالا راه‌حل چیه؟</h4><p class="md-block-unstyled">سه راه برای غلبه به آکراسیا و مقابله با به تعویق انداختن کارها وجود داره:</p><p class="md-block-unstyled"><strong class="md-inline-bold">استراتژی اول: اقداماتی که قراره در آینده انجام بدید رو طراحی کنید.</strong></p><p class="md-block-unstyled">وقتی ویکتور هوگو لباساش رو گذاشت تو کمد و درش رو قفل کرد، داشت کاری رو انجام میداد که روانشناس‌ها بهش میگن دستگاه تعهد (commitment device). دستگاه تعهد انتخابیه که شما در حال انجام می‌دید که اعمال شما رو تو آینده کنترل می‌کنه. این کار شما رو به عادات آینده‌تون مرتبط می‌کنه و عادات بد فعلیتون رو محدود می‌کنه.</p><p class="md-block-unstyled">راه‌های زیادی برای خلق دستگاه تعهد وجود داره: برای کم‌خوری می‌تونید به جای خرید یه کارتن چیپس، یه بسته کوچیکش رو بخرید، یا کیف پولتون رو بذارید خونه تا مجبور نشید خوراکی بخرید.<br>موقعیت‌ها متفاوت هستند ولی پیامشون مشترکه: دستگاه تعهد به شما کمک می‌کنه عادات آینده‌تون رو طراحی کنید. راهی پیدا کنید که عاداتتون رو خودکار کنه قبل از اینکه در لحظه هوس چیزی کنید. معمار اقدامات آینده‌تون باشید، نه قربانی اونا.</p><p class="md-block-unstyled"><strong class="md-inline-bold">استراتژی دوم: ترس و حساسیت از شروع رو کاهش بدید.</strong></p><p class="md-block-unstyled">حس گناه و درموندگیِ ناشی از به تعویق انداختن کار، معمولا خیلی بدتر از زجر انجام اون کاره. با این حال چرا باز کارامون رو به تعویق میندازیم؟ چون <strong class="md-inline-bold">اجرای کار</strong> نیست که سخته، بلکه <strong class="md-inline-bold">شروعشه</strong> که سخته. این ترسه که اغلب جلوی ما رو می‌گیره تا کاری رو شروع نکنیم. معمولا وقتی کاری رو شروع کنید، سختی انجام دادنش کمتر میشه.</p><p class="md-block-unstyled">مرتبا سعی کنید اندازه‌ی عاداتتون رو کوچیک کنید. تمام سعی و انرژیتون رو بذارید روی ساختن یک عادت و هرکاری کنید تا شروعش رو برای خودتون ساده و ساده‌تر کنید. تا زمانی که تمام هنرتون رو به نمایش نذاشتید، نگران نتیجه دادنش نباشید.</p><p class="md-block-unstyled"><strong class="md-inline-bold">استراتژی سوم: اول اهدافتون رو پیاده‌سازی کنید.</strong></p><p class="md-block-unstyled">منظور اینه که نیتتون رو از اجرای یک عادت تو یه زمان مشخصی تو آینده بنویسید. مثلا «من می‌خوام روز (تاریخش رو بنویسید) حداقل ۳۰ دقیقه ورزش کنم تو (مکانش رو بنویسید) در (زمانش رو بنویسید)»</p><p class="md-block-unstyled">تا جایی که من فهمیدم، نوشتن اهداف می‌تونه سرعت عملکرد شمارو تو اقدامات آینده‌تون ۲ تا ۳ برابر بیشتر کنه.</p><h4 class="md-block-header-four">مبارزه با آکراسیا</h4><p class="md-block-unstyled">ذهن ما پاداش آنی رو به پاداش بلندمدت ترجیح میده. گاهی واقعا مجبوریم یه حرکتایی بزنیم که کارامون انجام بشه - مثل ویکتور هوگو که لباساش رو از خودش دور کرد تا نتونه بره بیرون از خونه. </p><h4 class="md-block-header-four">به پایان آمد این ویرگول، حکایت همچنان باقیست...</h4><p class="md-block-unstyled">چندوقته که قراره پایان‌نامه‌ام رو بنویسم و هنوز که هنوزه هیچ کاری نکردم؛ مخاطب اول این مطلب خودمم! واقعا موندم چیکار کنم که بتونم پیش ببرمش. اگر توصیه‌ای دارید بدید بهم.<br>اگرم توصیه‌ای ندارید، بگید راه‌حلتون برای به تعویق ننداختن کارها چیه؟ </p><blockquote class="md-block-blockquote"><strong class="md-inline-bold">اگر این مطلب رو دوست داشتید و براتون مفید بود، می‌تونید از طریق <a class="md-inline-link" href="https://l.vrgl.ir/r?l=https%3A%2F%2Fhamibash.com%2Fshakibashamloo&amp;st=post&amp;si=h5l1weygl9ai&amp;ad=1&amp;k=Qo%2BIDPyyft8OEU%2F6TT%2F9Om1N30r1%2F7IpAhojsFE2r3s%3D" target="_blank" rel="noopener nofollow">صفحه‌ام در حامی باش</a> وبلاگم‌رو حمایت مالی کنید. </strong></blockquote><p class="md-block-unstyled">پ.ن:</p><ul class="md-block-unordered-list-item"><li>این پست ترجمه‌ی آزادی بود از این مطلب: </li></ul><p class="md-block-unstyled"><strong class="md-inline-bold"><a class="md-inline-link" href="https://l.vrgl.ir/r?l=https%3A%2F%2Fjamesclear.com%2Fakrasia&amp;st=post&amp;si=h5l1weygl9ai&amp;ad=1&amp;k=eiYB%2BvvU9cRJpgDf4zv77EX2GagxcfRYy7m4%2FuOsvwA%3D" target="_blank" rel="noopener nofollow">The Akrasia Effect: Why We Don’t Follow Through on What We Set Out to Do and What to Do About It</a></strong></p><ul class="md-block-unordered-list-item"><li>بد نیست این تد تاک رو هم نگاهی بندازید:</li></ul><figure class="md-block-embed"><a href="https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator"> https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator </a></figure><p class="md-block-unstyled"><br></p><p class="md-block-unstyled"><br></p>
+          </div>
+        
+      </div>
+
+   <footer class="single-post-footer js-postfooter">
+      <div class="post-tags">
+         <ul>
+                                                                                                      <li><a href="https://virgool.io/personal-development/tagged/%D8%A2%DA%A9%D8%B1%D8%A7%D8%B3%DB%8C%D8%A7">آکراسیا</a></li>
+                                                                                                                  <li><a href="https://virgool.io/personal-development/tagged/%D8%A8%D9%87%D8%B1%D9%87%E2%80%8C%D9%88%D8%B1%DB%8C">بهره‌وری</a></li>
+                                                                                                                  <li><a href="https://virgool.io/personal-development/tagged/%D9%85%D9%88%D9%81%D9%82%DB%8C%D8%AA">موفقیت</a></li>
+                                                                                                                  <li><a href="https://virgool.io/personal-development/tagged/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%E2%80%8C%D9%86%D8%A7%D9%85%D9%87">پایان‌نامه</a></li>
+                                                                                                                  <li><a href="https://virgool.io/personal-development/tagged/%D8%AA%D9%86%D8%A8%D9%84%DB%8C">تنبلی</a></li>
+                                                            </ul>
+      </div>
+      
+      <div class="post-actions">
+      <div class="post-action-buttons">
+
+   
+
+   
+   <div class="btn-action">
+      <button 
+         data-model="post"
+         data-action-name="like"
+         data-identifier="h5l1weygl9ai" 
+         class="button-like js-like " 
+      >
+                  
+        <div class="heart">
+         <svg viewBox="0 0 18 18" width="27" height="27">
+            <rect fill="#ff13dc" opacity="0" /><path d="M12.182,3.2545A4.00649,4.00649,0,0,0,9,5.1635a4.00649,4.00649,0,0,0-3.182-1.909A3.818,3.818,0,0,0,2,7.0725c0,3.646,7,8.273,7,8.273s7-4.578,7-8.273A3.818,3.818,0,0,0,12.182,3.2545Z" />
+         </svg>
+        </div>
+      </button>
+      <a href="https://virgool.io/personal-development/%D8%A2%DA%A9%D8%B1%D8%A7%D8%B3%DB%8C%D8%A7%D8%9B-%DB%8C%D8%A7-%DA%86%D8%B1%D8%A7-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%DA%A9%D8%A7%D8%B1%DB%8C-%DA%A9%D9%87-%D9%85%D9%87%D9%85-%D8%A7%D8%B3%D8%AA-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AA%D8%B9%D9%88%DB%8C%D9%82-%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C%D9%85-h5l1weygl9ai/likes" class="iconLabel js-action-counter" rel="nofollow">
+      ۱۴۰
+      </a>
+   </div>
+
+   <button class="btn-action button-comment" data-action-quickcomments>
+      <svg viewBox="0 0 18 18" width="22" height="22" >
+         <rect fill="#ff13dc" opacity="0" /><path d="M3,2A2,2,0,0,0,1,4v7a2,2,0,0,0,2,2H4v4.3965a.25.25,0,0,0,.427.1765L9,13h6a2,2,0,0,0,2-2V4a2,2,0,0,0-2-2Z" />
+      </svg>
+      <span class="iconLabel">۶۷ نظر</span>
+   </button>
+
+   <button 
+      data-model="post"
+      data-action-name="bookmark"
+      data-identifier="h5l1weygl9ai" 
+      data-popover-placement="auto"
+      class="btn-action button-bookmark "
+   >
+      <svg viewBox="0 0 18 18" width="20" height="20">
+         <rect fill="#ff13dc" opacity="0" width="20" height="20"/>
+         <path d="M14,1H4A.944.944,0,0,0,3,2V16.46c0,.4.5.7.8.4l5-4.987a.3.3,0,0,1,.4,0l5,4.987a.473.473,0,0,0,.8-.4V2A.944.944,0,0,0,14,1Z"/>
+      </svg>
+   </button>
+</div>
+<div class="share-buttons">
+   <a href="#" title="اشتراک گذاری در تلگرام" data-social="telegram" data-url="https://vrgl.ir/P7jGJ"class="btn telegram-share share">
+   <svg width="24" height="24" viewBox="0 0 300 300">
+         <path id="XMLID_497_" d="M36.5,145.8L90.7,166l21,67.5c1.3,4.3,6.6,5.9,10.1,3.1l30.2-24.6c3.2-2.6,7.7-2.7,11-0.3l54.5,39.6
+            c3.8,2.7,9.1,0.7,10-3.9l39.9-192.1c1-5-3.8-9.1-8.6-7.3L36.4,133.8C30.9,136,31,143.7,36.5,145.8z M108.3,155.3l106-65.3
+            c1.9-1.2,3.9,1.4,2.2,2.9l-87.5,81.3c-3.1,2.9-5.1,6.7-5.6,10.8l-3,22.1c-0.4,2.9-4.5,3.2-5.3,0.4l-11.5-40.3
+            C102.4,162.7,104.3,157.8,108.3,155.3z"/>
+      </svg>
+   </a>
+   
+   <a class="btn twitter-share share" href="#" title="اشتراک گذاری در توئیتر" data-social="twitter" data-url="https://vrgl.ir/P7jGJ">
+      <svg width="24" height="24" viewBox="0 0 24 24">
+         <path d="M18.89 7.012c0.808-0.496 1.343-1.173 1.605-2.034-0.786 0.417-1.569 0.703-2.351 0.861-0.703-0.756-1.593-1.14-2.66-1.14-1.043 0-1.924 0.366-2.643 1.078-0.715 0.717-1.076 1.588-1.076 2.605 0 0.309 0.039 0.585 0.117 0.819-3.076-0.105-5.622-1.381-7.628-3.837-0.34 0.601-0.51 1.213-0.51 1.846 0 1.301 0.549 2.332 1.645 3.089-0.625-0.053-1.176-0.211-1.645-0.47 0 0.929 0.273 1.705 0.82 2.388 0.549 0.676 1.254 1.107 2.115 1.291-0.312 0.080-0.641 0.118-0.979 0.118-0.312 0-0.533-0.026-0.664-0.083 0.23 0.757 0.664 1.371 1.291 1.841 0.625 0.472 1.344 0.721 2.152 0.743-1.332 1.045-2.855 1.562-4.578 1.562-0.422 0-0.721-0.006-0.902-0.038 1.697 1.102 3.586 1.649 5.676 1.649 2.139 0 4.029-0.542 5.674-1.626 1.645-1.078 2.859-2.408 3.639-3.974 0.784-1.564 1.172-3.192 1.172-4.892v-0.468c0.758-0.57 1.371-1.212 1.84-1.921-0.68 0.293-1.383 0.492-2.11 0.593z"></path>
+      </svg>
+   </a>
+
+    <div data-action="copy" class="shorturl-input">
+        <svg width="20" height="20" viewBox="0 0 24 24">
+            <path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"></path>
+        </svg>
+        <span class="shorturl-text">https://vrgl.ir/P7jGJ</span>
+    </div>
+</div>
+      </div>
+      
+      <div class="section-follow m-t-20">
+        <div class="section-follow-item ">
+          <div class="u-avatar u-avatar--small">
+                                                      <a href="https://virgool.io/personal-development/@shakiba" title="برو به پروفایل شکیبا شاملو" >
+                                              <img class="u-avatar-image" src="https://files.virgool.io/upload/users/582/avatar/fjJOKU.jpeg?x-img=v1/resize,h_120,w_120/optimize,q_100" alt="برو به پروفایل شکیبا شاملو">
+            </a>
+          </div>
+          
+          <div class="tableCell p-r-15">
+            <div class="tableCell-header">
+              <h5 class="tableCell--name">
+                                                                  <a href="https://virgool.io/personal-development/@shakiba" property="cc:attributionName" title="برو به پروفایل شکیبا شاملو">شکیبا شاملو</a>
+                                                      </h5>
+                              <button 
+                  data-model="user"
+                  data-action-name="follow" 
+                  data-identifier="bomb63mz8ttn" 
+                  data-followsource-position="post_bottom" 
+                  data-followsource-route="h5l1weygl9ai" 
+                  class="btn btn-action-toggle follows btn-sm "
+                >
+                </button>
+                          </div>
+            <p class="tableCell--bio js--linkify">ما شکیبا بودیم و این است کلامی که ما را به تمامی وصف می‌توان کرد.</p>
+          </div>
+        </div>
+                <div class="section-follow-item">
+          <div class="u-avatar u-avatar--small">
+            <a href="https://virgool.io/personal-development" title="برو به انتشارات رشد و پیشرفت فردی">
+              <img class="u-avatar-image" src="https://virgool.io/images/default-publication-avatar.jpg" alt="برو به انتشارات رشد و پیشرفت فردی">
+            </a>
+          </div>
+          
+          <div class="tableCell p-r-15">
+            <div class="tableCell-header">
+              <h5 class="tableCell--name">
+                <a href="https://virgool.io/personal-development" title="برو به انتشارات رشد و پیشرفت فردی">رشد و پیشرفت فردی</a>
+              </h5>
+              <button 
+                data-model="publication" 
+                data-action-name="follow" 
+                data-identifier="j138nfqeisyc" 
+                data-followsource-position="publication-post" 
+                data-followsource-route="h5l1weygl9ai" 
+                class="btn btn-action-toggle follows btn-sm ">
+              </button>
+            </div>
+            <p class="tableCell--bio js--linkify">مقالات روانشناسی و مقالات مرتبط با پیشرفت شخصی</p>
+          </div>
+        </div>
+              </div>
+   </footer>
+
+    
+  </div>
+
+</article>
+
+<script>
+  window.extraPostData = {
+    hash: 'h5l1weygl9ai',
+  }
+</script>
+
+            </section>
+
+
+         </section>
+
+                     <section class="comments" id="comments">
+ <div class="container">
+
+    <div class="post-suggestion">
+  <div class="section--title">شاید از این نوشته‌ها هم خوشتان بیاید</div>
+  <div class="row">
+                 <div class=" postItem js-button-action">
+          <div class="postItemContent">
+            <a href="https://virgool.io/personal-development/%D8%AF%D8%B1%D9%85%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D8%A7%D8%B3-akmachzkqk88?source=grid_footer_post-----0">
+                          <div class="postItem--photo">
+                   <img class="post--cover" src="https://files.virgool.io/upload/users/582/posts/akmachzkqk88/ysaa0vcjrjd3.jpeg?x-img=v1/resize,w_300/optimize,q_100" alt="شاید شما هم یکی از ما OCDها باشید! (درمان)">
+             </div>
+             </a>
+                          <div class="postItem-body">
+               <a href="https://virgool.io/personal-development/%D8%AF%D8%B1%D9%85%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D8%A7%D8%B3-akmachzkqk88?source=grid_footer_post-----0">
+                  <p class="suggest-type">
+                                       </p>
+                <h5 class="postItem--title">
+                   شاید شما هم یکی از ما OCDها باشید! (درمان)
+                </h5>
+                                </a>
+                                <div class="postItem-footer">
+                   <a href="https://virgool.io/@shakiba" class="userInfo">
+                      <div class="avatar">
+                         <img src="https://files.virgool.io/upload/users/582/avatar/fjJOKU.jpeg?x-img=v1/resize,h_120,w_120/optimize,q_100" alt="شکیبا شاملو">
+                      </div>
+                      <div class="more">
+                         <span class="name">شکیبا شاملو</span>
+                         <time class="readTime">خواندن ۸ دقیقه</time>
+                      </div>
+                   </a>
+                   <button 
+                     data-model="post"
+                     data-action-name="bookmark"
+                     data-identifier="akmachzkqk88" 
+                     data-popover-placement="auto"
+                     class="button-bookmark js-bookmark "
+                   >
+                     <svg viewBox="0 0 18 18" width="20" height="20">
+                        <rect fill="#ff13dc" opacity="0" width="20" height="20"/>
+                        <path d="M14,1H4A.944.944,0,0,0,3,2V16.46c0,.4.5.7.8.4l5-4.987a.3.3,0,0,1,.4,0l5,4.987a.473.473,0,0,0,.8-.4V2A.944.944,0,0,0,14,1Z"/>
+                     </svg>
+                   </button>
+                </div>
+                             </div>
+          </div>
+       </div>
+            <div class=" postItem js-button-action">
+          <div class="postItemContent">
+            <a href="https://virgool.io/personal-development/%D8%A8%DB%8C-%D9%BE%D9%88%D9%84%DB%8C-%D9%88-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-wljbepltpj67?source=grid_footer_post-----1">
+                          <div class="postItem--photo">
+                   <img class="post--cover" src="https://files.virgool.io/upload/users/582/posts/wljbepltpj67/gj9alxaykwrt.jpeg?x-img=v1/resize,w_300/optimize,q_100" alt="ترک عادت کجا جایز است؟">
+             </div>
+             </a>
+                          <div class="postItem-body">
+               <a href="https://virgool.io/personal-development/%D8%A8%DB%8C-%D9%BE%D9%88%D9%84%DB%8C-%D9%88-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-wljbepltpj67?source=grid_footer_post-----1">
+                  <p class="suggest-type">
+                                       </p>
+                <h5 class="postItem--title">
+                   ترک عادت کجا جایز است؟
+                </h5>
+                                </a>
+                                <div class="postItem-footer">
+                   <a href="https://virgool.io/@shakiba" class="userInfo">
+                      <div class="avatar">
+                         <img src="https://files.virgool.io/upload/users/582/avatar/fjJOKU.jpeg?x-img=v1/resize,h_120,w_120/optimize,q_100" alt="شکیبا شاملو">
+                      </div>
+                      <div class="more">
+                         <span class="name">شکیبا شاملو</span>
+                         <time class="readTime">خواندن ۳ دقیقه</time>
+                      </div>
+                   </a>
+                   <button 
+                     data-model="post"
+                     data-action-name="bookmark"
+                     data-identifier="wljbepltpj67" 
+                     data-popover-placement="auto"
+                     class="button-bookmark js-bookmark "
+                   >
+                     <svg viewBox="0 0 18 18" width="20" height="20">
+                        <rect fill="#ff13dc" opacity="0" width="20" height="20"/>
+                        <path d="M14,1H4A.944.944,0,0,0,3,2V16.46c0,.4.5.7.8.4l5-4.987a.3.3,0,0,1,.4,0l5,4.987a.473.473,0,0,0,.8-.4V2A.944.944,0,0,0,14,1Z"/>
+                     </svg>
+                   </button>
+                </div>
+                             </div>
+          </div>
+       </div>
+            <div class=" postItem js-button-action">
+          <div class="postItemContent">
+            <a href="https://virgool.io/personal-development/%DA%86%D9%86%D8%AF-%D8%AA%D9%85%D8%B1%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%DB%8C%D9%86%DA%A9%D9%87-%D8%A8%D9%81%D9%87%D9%85%DB%8C%D9%85-%D9%87%D8%AF%D9%81%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B2%D9%86%D8%AF%DA%AF%DB%8C-%DA%86%DB%8C%D8%B3%D8%AA-l0fni3nlbkuf?source=grid_footer_post-----2">
+                          <div class="postItem--photo">
+                   <img class="post--cover" src="https://files.virgool.io/upload/users/582/posts/l0fni3nlbkuf/87poaytfzxvu.jpeg?x-img=v1/resize,w_300/optimize,q_100" alt="چند تمرین برای اینکه بفهمیم هدفمان در زندگی چیست">
+             </div>
+             </a>
+                          <div class="postItem-body">
+               <a href="https://virgool.io/personal-development/%DA%86%D9%86%D8%AF-%D8%AA%D9%85%D8%B1%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%DB%8C%D9%86%DA%A9%D9%87-%D8%A8%D9%81%D9%87%D9%85%DB%8C%D9%85-%D9%87%D8%AF%D9%81%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B2%D9%86%D8%AF%DA%AF%DB%8C-%DA%86%DB%8C%D8%B3%D8%AA-l0fni3nlbkuf?source=grid_footer_post-----2">
+                  <p class="suggest-type">
+                                       </p>
+                <h5 class="postItem--title">
+                   چند تمرین برای اینکه بفهمیم هدفمان در زندگی چیست
+                </h5>
+                                </a>
+                                <div class="postItem-footer">
+                   <a href="https://virgool.io/@shakiba" class="userInfo">
+                      <div class="avatar">
+                         <img src="https://files.virgool.io/upload/users/582/avatar/fjJOKU.jpeg?x-img=v1/resize,h_120,w_120/optimize,q_100" alt="شکیبا شاملو">
+                      </div>
+                      <div class="more">
+                         <span class="name">شکیبا شاملو</span>
+                         <time class="readTime">خواندن ۵ دقیقه</time>
+                      </div>
+                   </a>
+                   <button 
+                     data-model="post"
+                     data-action-name="bookmark"
+                     data-identifier="l0fni3nlbkuf" 
+                     data-popover-placement="auto"
+                     class="button-bookmark js-bookmark "
+                   >
+                     <svg viewBox="0 0 18 18" width="20" height="20">
+                        <rect fill="#ff13dc" opacity="0" width="20" height="20"/>
+                        <path d="M14,1H4A.944.944,0,0,0,3,2V16.46c0,.4.5.7.8.4l5-4.987a.3.3,0,0,1,.4,0l5,4.987a.473.473,0,0,0,.8-.4V2A.944.944,0,0,0,14,1Z"/>
+                     </svg>
+                   </button>
+                </div>
+                             </div>
+          </div>
+       </div>
+       </div>
+</div>
+      <div id="app-root-comments"></div>
+ </div>
+</section>
+         
+     </main>
+
+
+</section>
+   <script>
+    if (!navigator.serviceWorker.controller) {
+        navigator.serviceWorker.register('https://virgool.io/sw.js').then(function(reg) {
+            console.log("Service worker has been registered for scope: " + reg.scope);
+        });
+    }
+    </script>
+
+    <div id="app-root-modal"></div>
+
+<script>
+  window.shareData = {
+    authUser: null,
+    entryData: {"postInfo":{"likes_count":140,"liked":false,"bookmarked":false,"comments_count":67,"hash":"h5l1weygl9ai","link":"https:\/\/virgool.io\/personal-development\/%D8%A2%DA%A9%D8%B1%D8%A7%D8%B3%DB%8C%D8%A7%D8%9B-%DB%8C%D8%A7-%DA%86%D8%B1%D8%A7-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%DA%A9%D8%A7%D8%B1%DB%8C-%DA%A9%D9%87-%D9%85%D9%87%D9%85-%D8%A7%D8%B3%D8%AA-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AA%D8%B9%D9%88%DB%8C%D9%82-%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C%D9%85-h5l1weygl9ai","author":{"id":582,"username":"shakiba","name":"\u0634\u06a9\u06cc\u0628\u0627 \u0634\u0627\u0645\u0644\u0648","hash":"bomb63mz8ttn","avatar":"https:\/\/files.virgool.io\/upload\/users\/582\/avatar\/fjJOKU.jpeg?x-img=v1\/resize,h_120,w_120\/optimize,q_100","bio":"\u0645\u0627 \u0634\u06a9\u06cc\u0628\u0627 \u0628\u0648\u062f\u06cc\u0645 \u0648 \u0627\u06cc\u0646 \u0627\u0633\u062a \u06a9\u0644\u0627\u0645\u06cc \u06a9\u0647 \u0645\u0627 \u0631\u0627 \u0628\u0647 \u062a\u0645\u0627\u0645\u06cc \u0648\u0635\u0641 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646 \u06a9\u0631\u062f.","followed":false,"followedByUser":false,"links":{"rel":"self","href":"https:\/\/virgool.io\/@shakiba"}},"publication":{"name":"personal-development","title":"\u0631\u0634\u062f \u0648 \u067e\u06cc\u0634\u0631\u0641\u062a \u0641\u0631\u062f\u06cc","description":"\u0645\u0642\u0627\u0644\u0627\u062a \u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc \u0648 \u0645\u0642\u0627\u0644\u0627\u062a \u0645\u0631\u062a\u0628\u0637 \u0628\u0627 \u067e\u06cc\u0634\u0631\u0641\u062a \u0634\u062e\u0635\u06cc","main_domain":null,"hash":"j138nfqeisyc","color":null,"text_color":null,"header_image":null,"followers":20,"is_premium":false,"link":"https:\/\/virgool.io\/personal-development","logo":"https:\/\/virgool.io\/images\/default-publication-avatar.jpg","followed":null},"suggested_posts":null,"related_ad":null}},
+    hostname: "https://virgool.io",
+    frontend_env: "production",
+  }
+</script>    
+        <script>
+      window.publicationData = {"id":4700,"user_id":582,"name":"personal-development","custom_domain":null,"title":"\u0631\u0634\u062f \u0648 \u067e\u06cc\u0634\u0631\u0641\u062a \u0641\u0631\u062f\u06cc","description":"\u0645\u0642\u0627\u0644\u0627\u062a \u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc \u0648 \u0645\u0642\u0627\u0644\u0627\u062a \u0645\u0631\u062a\u0628\u0637 \u0628\u0627 \u067e\u06cc\u0634\u0631\u0641\u062a \u0634\u062e\u0635\u06cc","main_domain":null,"hash":"j138nfqeisyc","twitter":null,"instagram":null,"telegram":null,"color":null,"text_color":null,"rss_icon":1,"logo":null,"header_image":null,"followers":20,"direction":"rtl","created_at":"2021-04-24 22:25:14","updated_at":"2021-04-24 22:25:14"}
+    </script>
+       <script data-script="commonjs" type="text/javascript" src="https://virgool.io/js/commons.js?v=v2.13.2"></script>
+   <script type="text/javascript" src="https://virgool.io/js/main.js?v=v2.13.2"></script>
+
+               <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://virgool.io/personal-development/%D8%A2%DA%A9%D8%B1%D8%A7%D8%B3%DB%8C%D8%A7%D8%9B-%DB%8C%D8%A7-%DA%86%D8%B1%D8%A7-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%DA%A9%D8%A7%D8%B1%DB%8C-%DA%A9%D9%87-%D9%85%D9%87%D9%85-%D8%A7%D8%B3%D8%AA-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AA%D8%B9%D9%88%DB%8C%D9%82-%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C%D9%85-h5l1weygl9ai"},"headline":"آکراسیا؛ یا چرا انجام کاری که مهم است را به تعویق می‌اندازیم؟","image":{"@type":"ImageObject","url":"https://files.virgool.io/upload/users/582/posts/h5l1weygl9ai/josvx21ncrzz.jpeg?x-img=v1/optimize,q_50","width":1200,"height":""},"datePublished":"2019-05-26T23:04:18+04:30","dateModified":"2021-04-24T23:14:57+04:30","author":{"@type":"Person","name":"شکیبا شاملو","url":"https://virgool.io/@shakiba"},"publisher":{"@type":"Organization","name":"ویرگول","url":"https://virgool.io","sameAs":["https://instagram.com/virgool.io","https://twitter.com/virgool_io","https://telegram.me/virgool_io","https://www.linkedin.com/company/virgool.io","https://www.youtube.com/channel/UCaimJ9mYlFHaU7KM6nqy4EQ"],"logo":{"@type":"ImageObject","url":"https://virgool.io/images/virgool.png","width":400,"height":400}}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ویرگول","item":"https://virgool.io"},{"@type":"ListItem","position":2,"name":"رشد و پیشرفت فردی","item":"https://virgool.io/personal-development"},{"@type":"ListItem","position":3,"name":"آکراسیا؛ یا چرا انجام کاری که مهم است را به تعویق می‌اندازیم؟","item":"https://virgool.io/personal-development/%D8%A2%DA%A9%D8%B1%D8%A7%D8%B3%DB%8C%D8%A7%D8%9B-%DB%8C%D8%A7-%DA%86%D8%B1%D8%A7-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%DA%A9%D8%A7%D8%B1%DB%8C-%DA%A9%D9%87-%D9%85%D9%87%D9%85-%D8%A7%D8%B3%D8%AA-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AA%D8%B9%D9%88%DB%8C%D9%82-%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C%D9%85-h5l1weygl9ai"}]}</script>
+        
+      
+         </body>
+</html>
